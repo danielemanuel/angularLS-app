@@ -15,7 +15,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 #### The questions are displayed on the page even after you refresh it because the data is stored in Local Storage. Pressing the 'Show' link will display the answer.You can delete the question by pressing the "Remove question" link
 
-![show-question](images/show-question.png)
+![show-question](images/show.png)
 
 ### Development server
 
