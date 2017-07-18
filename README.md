@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-
+### Project summary
 * A very basic FAQ app created with Angular 4
 * The data is stored in Local Storage
 * The project is structured in numerous components for keeping the code clean and easy to follow  
